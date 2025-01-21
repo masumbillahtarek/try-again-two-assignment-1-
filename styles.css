@@ -1,0 +1,39 @@
+*{
+    font-family: "Inter", serif;
+
+}
+/* Banner Part */
+header{
+margin: 50px 120px;
+}
+.banner{
+position: relative;
+
+}
+
+.banner>img{
+    width: 100%;
+}
+.banner-text{
+position: absolute;
+left: 22%;
+top: 20%;
+
+}
+.banner-text> h3{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0px;
+    font-family: "Merriweather", serif;
+}
+.banner-text>h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0px;
+    width: 650px;
+    font-family: "Merriweather", serif;
+}
